@@ -2,7 +2,7 @@
 
 ### **Lesson 6**
 
-In this module i practiced basci functions of tables junctions.
+In this module i practiced basic functions of tables junctions.
 - ***UNION***
 - Junctions ***INNER*** and ***CROSS***
 - Junctions ***LEFT*** and ***RIGHT***
